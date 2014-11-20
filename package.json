@@ -1,0 +1,14 @@
+{
+  "name": "linter-apiblueprint",
+  "main": "./lib/init",
+  "linter-package": true,
+  "activationEvents": [],
+  "version": "0.0.2",
+  "description": "Lint API Blueprint files",
+  "repository": "https://github.com/abtris/linter-apiblueprint.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
